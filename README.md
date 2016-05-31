@@ -1,2 +1,2 @@
-# provider-manual
+# Provider Manual
 DIDD Provider Manual
