@@ -12,10 +12,10 @@ It is important to note that this manual does not encompass all provider require
 
 DIDD, providers, and stakeholders are partners in a common goal to provide quality, person-centered and cost effective services to individuals with intellectual and developmental disabilities to live fulfilling and rewarding lives.
 
-Sincerely, 
+Sincerely, <br />
 
-<br />
 Debra K. Payne<br />
+![Debra K. Payne Signature](Debra_Payne_sig.jpg)<br />
 Commissioner, DIDD
 
 
