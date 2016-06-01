@@ -9,5 +9,7 @@
   * [Purpose of the Provider Manual](Introduction/purpose.md)
     * [Purpose](Introduction/purpose.md)
     * [Resources](Introduction/resources.md)
-  * 
+* **1.** [Eligibility, Enrollment, And Disenrollment](Chapter 1/README.md)
+* **2.** [Rights Applicable to All People with Intellectual Disabilities](Chapter 2/README.md)
+* 
 
