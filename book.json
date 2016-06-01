@@ -1,6 +1,4 @@
 {
-    "plugins": [
-        "-collapsible-menu"
-    ],
+    "plugins": [],
     "pluginsConfig": {}
 }
